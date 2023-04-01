@@ -1,0 +1,11 @@
+﻿  ACE COMBAT 8 _ retrogression.cpp
+E:\VSIDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(13,22): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(318,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(326,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(334,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(342,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(350,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(487,19): warning C4552: ”+“: 未使用表达式结果
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\ACE COMBAT 8 _ retrogression.cpp(492,19): warning C4552: ”+“: 未使用表达式结果
+  ACE COMBAT 8 _ retrogression.vcxproj -> C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\x64\Debug\ACE COMBAT 8 _ retrogression.exe

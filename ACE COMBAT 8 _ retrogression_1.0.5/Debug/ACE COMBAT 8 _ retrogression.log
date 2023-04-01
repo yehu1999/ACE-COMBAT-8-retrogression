@@ -1,0 +1,58 @@
+﻿  ACE COMBAT 8 _ retrogression.cpp
+E:\VSIDE\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(40,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(40,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [26]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(40,17): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(40,2): message : 尝试匹配参数列表“(IMAGE *, const char [26])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(41,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(41,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [27]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(41,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(41,2): message : 尝试匹配参数列表“(IMAGE *, const char [27])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(42,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(42,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [28]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(42,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(42,2): message : 尝试匹配参数列表“(IMAGE *, const char [28])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(43,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(43,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [26]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(43,35): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(43,2): message : 尝试匹配参数列表“(IMAGE *, const char [26])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(44,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(44,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [34]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(44,35): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(44,2): message : 尝试匹配参数列表“(IMAGE *, const char [34])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(46,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(46,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [26]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(46,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(46,2): message : 尝试匹配参数列表“(IMAGE *, const char [26])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(47,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(47,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [27]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(47,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(47,2): message : 尝试匹配参数列表“(IMAGE *, const char [27])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(48,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(48,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [26]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(48,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(48,2): message : 尝试匹配参数列表“(IMAGE *, const char [26])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(49,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(49,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [27]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(49,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(49,2): message : 尝试匹配参数列表“(IMAGE *, const char [27])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(50,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(50,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [26]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(50,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(50,2): message : 尝试匹配参数列表“(IMAGE *, const char [26])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(51,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+E:\VSIDE\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(51,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [27]”转换为“LPCTSTR”
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(51,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(51,2): message : 尝试匹配参数列表“(IMAGE *, const char [27])”时
+E:\内容\code\vs\console\ACE COMBAT 8 _ retrogression_solution\ACE COMBAT 8 _ retrogression\ACE COMBAT 8 _ retrogression.cpp(186,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACE COMBAT 8 _ retrogression", "ACE COMBAT 8 _ retrogression.vcxproj", "{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{E4B38A81-3F97-4276-8CD0-3F2F69A47196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Debug|x64.ActiveCfg = Debug|x64
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Debug|x64.Build.0 = Debug|x64
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Debug|x86.ActiveCfg = Debug|Win32
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Debug|x86.Build.0 = Debug|Win32
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Release|x64.ActiveCfg = Release|x64
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Release|x64.Build.0 = Release|x64
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Release|x86.ActiveCfg = Release|Win32
+		{702E6A2A-4A9F-4374-B7CA-72F9599F2F79}.Release|x86.Build.0 = Release|Win32
+		{E4B38A81-3F97-4276-8CD0-3F2F69A47196}.Debug|x64.ActiveCfg = Debug
+		{E4B38A81-3F97-4276-8CD0-3F2F69A47196}.Debug|x86.ActiveCfg = Debug
+		{E4B38A81-3F97-4276-8CD0-3F2F69A47196}.Release|x64.ActiveCfg = Release
+		{E4B38A81-3F97-4276-8CD0-3F2F69A47196}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7A222B-BB34-4DC0-9D68-9666555E7138}
+	EndGlobalSection
+EndGlobal

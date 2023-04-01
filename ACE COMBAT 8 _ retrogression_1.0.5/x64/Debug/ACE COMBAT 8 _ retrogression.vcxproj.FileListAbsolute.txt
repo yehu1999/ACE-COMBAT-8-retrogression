@@ -1,0 +1,7 @@
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression\x64\Debug\ACE COMBAT 8 _ retrogression.exe
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.0\x64\Debug\ACE COMBAT 8 _ retrogression.exe
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.1\x64\Debug\ACE COMBAT 8 _ retrogression.exe
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.2\x64\Debug\ACE COMBAT 8 _ retrogression.exe
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.3\x64\Debug\ACE COMBAT 8 _ retrogression.exe
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.4\x64\Debug\ACE COMBAT 8 _ retrogression.exe
+C:\Users\86188\Desktop\ACE COMBAT 8 _ retrogression_1.0.5\x64\Debug\ACE COMBAT 8 _ retrogression.exe
