@@ -5,7 +5,7 @@
 <control>
 move:WASD/UDLR#
 attack:SPACE#
-laser:K#
+laser:num1（maybe I should turn it to K）#
 
 <UI>
 rednumber:HP#
