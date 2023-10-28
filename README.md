@@ -13,3 +13,9 @@ graynumber:shield#
 yellownumber:how many laser you have#
 whitenumber:score#
 blacknumber:level#
+
+<installation package>
+Setup1/Debug/Setup1.msi and setup.exe
+
+<Postscripts>
+This is a small game I made when I first learned C++, and all the functions were put in a cpp file, hhhhhh
